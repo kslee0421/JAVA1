@@ -12,6 +12,6 @@ public class VariableScopeExample {
 		//int v3 = v1 + v2;
 		// if 함수 밖을 벗어나면 v2는 소멸.
 		//sysout 쓰고 Ctrl+Space 누르기.
-	
+	}
 
 }
