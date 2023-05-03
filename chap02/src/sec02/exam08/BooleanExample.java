@@ -12,5 +12,5 @@ public class BooleanExample {
 		}
 		
 	}
-//8개 클래스 형 premitive 변수 타입 :  Byte short long / flaot double / char int boolean 
+//8개 클래스 형 premitive 변수 타입 :  Byte short char int long / flaot double /  int boolean 
 }
