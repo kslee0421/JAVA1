@@ -8,7 +8,9 @@ public class DriverExample {
 		Taxi taxi = new Taxi();
 		
 		driver.drive(bus);
+		driver.drive(taxi);
 		//Vehicle vehicle = bus; 자동타입변환
+		
 	}
 
 }
