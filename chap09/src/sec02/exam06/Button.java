@@ -1,6 +1,10 @@
 package sec02.exam06;
 
 public class Button {
+	static interface OnClickListener{
+		void onClick();
+	}
+	
 	OnClickListener listener; //필드값
 
 	public void setOnClickListener(OnClickListener listener) {
@@ -11,7 +15,5 @@ public class Button {
 		listener.onClick();
 	}
 	
-	static interface OnClickListener{
-		void onClick();
-	}
+
 }
